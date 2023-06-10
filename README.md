@@ -2,7 +2,9 @@
 
 This repository includes the implementation details of the method ```SimNet``` and helps readers to reproduce the results in the paper **Learning to Discover Various Simpson’s Paradoxes**（KDD 2023）.
 
-SimNet is a simple neural network model with high operational efficiency.
+SimNet is a simple neural network model with high operational efficiency. 
+
+```KDD2023_SimNet_Full.pdf``` is the complete version of our paper, including all experimental results.
 
 
 ## Requirements
